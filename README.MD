@@ -19,7 +19,7 @@ A simple project for reading a CSV file and insert the data in database.
 - [Postgres SQL](https://www.postgresql.org/)
 
 
-## ℹ How to use
+## :information_source: How to use
 
 To clone and run this application, you'll need [Git](https://git-scm.com) and  [Node.js v14.16](https://nodejs.org) higher installed on your computer. This project utilized too [Yarn v1.22.5](https://yarnpkg.com). From your command line:
 
