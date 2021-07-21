@@ -9,17 +9,17 @@ Node-CSV
   <a href="#-license">License</a>
 </p>
 
-## 📖 Sobre
+## 📖 About
 A simple project for reading a CSV file and insert the data in database.
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 - [Express](https://expressjs.com/pt-br/)
 - [Multer](https://github.com/expressjs/multer)
 - [Prisma](https://www.prisma.io/)
 - [Postgres SQL](https://www.postgresql.org/)
 
 
-## ℹ Como usar
+## ℹ How to use
 
 To clone and run this application, you'll need [Git](https://git-scm.com) and  [Node.js v14.16](https://nodejs.org) higher installed on your computer. This project utilized too [Yarn v1.22.5](https://yarnpkg.com). From your command line:
 
@@ -40,7 +40,7 @@ $ yarn dev ou npm run dev
 
 The database url must be configured into `.env` file. Just rename the `.env.example` file to `.env` and configure your database url.
 
-## 📝 Licença
+## 📝 License
 This project is under the MIT license. See the LICENSE for more information.
 
 ---
