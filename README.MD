@@ -31,17 +31,17 @@ $ git clone https://github.com/jvrapi/node-csv.git
 $ cd node-csv
 
 # Install dependencies
-$ yarn install ou npm install
+$ yarn install or npm install
 
 # Start the project
-$ yarn dev ou npm run dev
+$ yarn dev or npm run dev
 
 ```
 
 The database url must be configured into `.env` file. Just rename the `.env.example` file to `.env` and configure your database url.
 
 ## 📝 License
-This project is under the MIT license. See the LICENSE for more information.
+This project is under the MIT license. See the [LICENSE](LICENSE) for more information.
 
 ---
 
